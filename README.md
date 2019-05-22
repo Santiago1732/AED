@@ -1,5 +1,4 @@
 Algoritmos-y-Estructura-de-Datos
-Repositorio público individual, donde subiré las entregas de los trabajos individuales de la asignatura a cargo del ingeniero Jose María Sola.
 
 • Curso: K1051
 
