@@ -1,4 +1,4 @@
-Algoritmos-y-Estructura-de-Datos
+[b]Algoritmos-y-Estructura-de-Datos[/b]
 
 • Curso: K1051
 
