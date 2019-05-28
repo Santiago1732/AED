@@ -1,0 +1,1 @@
+• TiposDeDatos.cpp: este programa desarrollado en c++ asigna a los tipos de datos bool, char, string, int y unsigned para demostrar como funcionan y entender la manera de como con los valores trabajan.
