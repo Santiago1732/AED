@@ -39,5 +39,4 @@ int main() {
     testValue(calificacion);
     double promedio = 10.00;
     testValue(promedio);
-    testValue(aprobado);
 }
