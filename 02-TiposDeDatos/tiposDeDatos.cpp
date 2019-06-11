@@ -41,4 +41,7 @@ int main() {
     testValue(promedio);
     testValue(aprobado);
 
+
+    testValue(aprobado);
+
 }
